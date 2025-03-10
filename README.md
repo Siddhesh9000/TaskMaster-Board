@@ -6,7 +6,11 @@
 
 ## 📸 Screenshots  
 
-(https://github.com/user-attachments/assets/c7a82b1a-e24f-48d0-8280-4b0610cec3b1)
+| 🏠 Home Screen | |
+|--------------|----------------|
+| ![Home](https://github.com/user-attachments/assets/c7a82b1a-e24f-48d0-8280-4b0610cec3b1) |
+
+
 
 ---
 
