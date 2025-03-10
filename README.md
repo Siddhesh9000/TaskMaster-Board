@@ -1,1 +1,1 @@
-# TaskMAaster Board
+# TaskMaster Board
